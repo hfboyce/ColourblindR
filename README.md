@@ -45,10 +45,10 @@ install.packages("devtools")
 library(devtools)
 ```
 
-3. Install `ColourblindR` package by inputting the following into the console:
+3. Install `ColourblindR` package by inputting the following into the R console:
 
 ```
-devtools::install_github("ubc-mds/colourblindr", build_opts = c("--no-resave-data", "--no-manual"))
+devtools::install_github("hfboyce/ColourblindR")
 ```
 
 
